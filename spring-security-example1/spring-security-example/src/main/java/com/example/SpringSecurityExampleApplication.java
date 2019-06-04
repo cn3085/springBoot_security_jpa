@@ -8,6 +8,8 @@ public class SpringSecurityExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityExampleApplication.class, args);
+		
+		
 	}
 
 }
